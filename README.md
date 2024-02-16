@@ -1,4 +1,4 @@
-# weather_app_assignment.
+# Weather_app.
 A submission for my Python Developer Internship by Adepoju Emmanuel
 
 ## Follow the instruction to run the App.
