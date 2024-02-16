@@ -16,7 +16,13 @@ Visit this Link and then create an account in order to get access to the API key
 
 [Weather API](https://openweathermap.org/api)
 
-Once you’ve gotten the API key. You can clone this repository to your local machine using
+Once you’ve gotten the API key. 
+- Create a .env file in you working directory and add the API key like this
+
+```bash
+WEATHER_API_KEY = <Your API key>
+```
+You can clone this repository to your local machine using
 
 ```bash
 git clone https://github.com/RhythmBear/weather_app_assignment.
